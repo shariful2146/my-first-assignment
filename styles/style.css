@@ -1,0 +1,25 @@
+
+
+
+.fira-sans-light {
+  font-family: "Fira Sans", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+/*banner section*/
+
+.title{
+    font-weight: bold;
+    opacity: 100%;
+    color: #0E0E0E;
+}
+
+.primary-btn{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 20px;
+    color: #006A50;
+    border-radius: 8px;
+}
